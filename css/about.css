@@ -1,0 +1,94 @@
+.about-start {
+    height: 100vh;
+    position: relative;
+    background-image: url(../images/self-portrait-1.webp);
+    background-size: cover;
+}
+
+
+.start-h1 {
+    font-size: 60px;
+    color: #FCF1E1;
+    text-shadow:
+                0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.start-h1::selection, .responsive-br-1 ::selection {
+    background-color: rgba(16,12,8,0.95);
+}
+
+.second-section {
+    height: auto;
+    width: auto;
+    background-color: #F1C27D;
+    color: #4A332D;
+    font-style: italic;
+}
+
+.second-section ::selection{
+    background-color: #AF6E51;
+}
+
+.third-section p::selection, .figcap-2::selection {
+    background-color: #FFD1A3;
+}
+
+.blockquote-footer {
+    color: #4A332D;
+    font-style: normal;
+}
+
+#quote-br-2 {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .quote-br-2 {
+        display: inline;
+    }
+    .about-start {
+        background-position: 40% 0%;
+    }
+}
+
+.quotation-marks {
+    font-family: "roboto";
+}
+
+
+.third-section {
+    height: auto;
+    max-width: 100%;
+    background-color: #F9F3DE;
+}
+
+.figure-img {
+    max-width: 270px;
+}
+
+#wikipedia-icon {
+    font-size: 2rem;
+}
+
+.more-info-icons {
+    height: 60px;
+}
+
+.more-info-links {
+    display: inline-block;
+}
+
+.about-content-p {
+    font-size: 19px;
+}
+
+#for-more-info {
+    background-color: #EDE8D5;
+    border-radius: .5rem;
+}
+
+#for-more-info ::selection {
+    background-color: #917E78;
+}

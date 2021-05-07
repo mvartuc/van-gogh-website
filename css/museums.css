@@ -1,0 +1,143 @@
+.about-start {
+    height: 100vh;
+    position: relative;
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ), url(../images/amsterdam-museum.jpg);
+    background-size: cover;
+}
+
+
+.start-h1 {
+    font-size: 60px;
+    color: #FCF1E1;
+    text-shadow:
+                0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.start-h1::selection, .responsive-br-1 ::selection {
+    background-color: rgba(16,12,8,0.95);
+}
+
+.second-sec {
+    position: relative;
+    height: auto;
+    width: 100vw;
+    max-width: 100%;
+    background-color: #FDE8C8;
+}
+
+.sec-container {
+    height: inherit;
+}
+
+.museums-right-img, .museums-left-img {
+    overflow: hidden; /* hide the excess */
+}
+
+.museum-imgs {
+    max-height: 450px;
+    transform-origin: 50% 65%;
+    transition: transform 1s ease-in-out;
+}
+
+.museum-imgs:hover {
+    transform: scale(1.2);
+}
+
+.row {
+    height: auto;
+    width: 100%;
+    border-radius: .3rem;
+}
+
+.sec-container {
+    max-width: 90%;
+}
+
+.museums-right-text, .museums-left-text {
+    height: auto;
+    position: relative;
+}
+
+.museums-right-text::before, .museums-left-text::after {
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 7px;
+    border-radius: 2rem;
+    background-color: black;
+    display: block;
+    top: 0;
+    bottom: 0;
+}
+
+.museums-left-text::after {
+    left: 95%;
+}
+
+@media only screen and (max-width: 992px) {
+  .museums-right-text::before,  .museums-left-text::after {
+      display: none;
+  }
+}
+
+
+.show-more-btn {
+    border-radius: 3rem;
+}
+
+.show-more-btn:hover {
+    background-color: #D22C2C;
+    border-color: #BD2828;
+}
+
+.underline {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.about-museum-btn {
+    max-width: 110px;
+}
+
+.about-museum-btn:hover {
+    background-color: #D22C2C;
+    border-color: #BD2828;
+}
+
+.row > * {
+  transition: all .3s ease-in-out;
+}
+
+.row-left {
+    background-color: #FAD29D;
+}
+
+.row-right {
+    background-color: #FDE0B4;
+}
+
+.row-right > * ::selection {
+    background-color: #F5EEDB;
+}
+
+.row-left > * ::selection {
+    background-color: #D6CBB0
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+.email-p > a {
+    color: #D22C2C;
+}
+
+.email-p > a:hover {
+    color: #F07249;
+}
+
