@@ -1,10 +1,7 @@
 .gallery-start {
     height: 100vh;
     position: relative;
-    background-image:    linear-gradient(
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0.2)
-    ), url("../images/almond-blossoms.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/almond-blossoms.jpg");
     background-size: cover;
     background-position: center top;
 }
@@ -12,16 +9,13 @@
 #start-h1 {
     font-size: 60px;
     color: #FCF1E1;
-        text-shadow:
-                0px 4px 3px rgba(0,0,0,0.4),
-                0px 8px 13px rgba(0,0,0,0.1),
-                0px 18px 23px rgba(0,0,0,0.1);
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
     text-decoration: underline;
     text-decoration-color: #F6EBAD;
 }
 
 #start-h1::selection, .responsive-br ::selection {
-    background-color: rgba(16,12,8,0.95);
+    background-color: rgba(16, 12, 8, 0.95);
 }
 
 .dl-btn-text {
@@ -51,8 +45,10 @@
 }
 
 .img-link-div {
-    display: inline-block; /* shrink wrap to image */
-    overflow: hidden; /* hide the excess */
+    display: inline-block;
+    /* shrink wrap to image */
+    overflow: hidden;
+    /* hide the excess */
 }
 
 .card-img-top {
@@ -60,9 +56,8 @@
     transition: transform 1s ease-in-out;
 }
 
-
 .img-link-div:hover img {
-  transform: scale(1.3);
+    transform: scale(1.3);
 }
 
 #sec-2 {
@@ -87,7 +82,7 @@
     width: 100%;
     border-radius: 2rem;
     background-color: #dacc98;
-    color: rgb(16,12,8);
+    color: rgb(16, 12, 8);
 }
 
 #sec-2 ::selection {

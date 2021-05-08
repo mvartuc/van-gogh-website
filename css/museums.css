@@ -1,25 +1,18 @@
 .about-start {
     height: 100vh;
     position: relative;
-    background-image: linear-gradient(
-      rgba(0, 0, 0, 0.4),
-      rgba(0, 0, 0, 0.4)
-    ), url(../images/amsterdam-museum.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/amsterdam-museum.jpg);
     background-size: cover;
 }
-
 
 .start-h1 {
     font-size: 60px;
     color: #FCF1E1;
-    text-shadow:
-                0px 4px 3px rgba(0,0,0,0.4),
-                0px 8px 13px rgba(0,0,0,0.1),
-                0px 18px 23px rgba(0,0,0,0.1);
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
 .start-h1::selection, .responsive-br-1 ::selection {
-    background-color: rgba(16,12,8,0.95);
+    background-color: rgba(16, 12, 8, 0.95);
 }
 
 .second-sec {
@@ -35,7 +28,8 @@
 }
 
 .museums-right-img, .museums-left-img {
-    overflow: hidden; /* hide the excess */
+    overflow: hidden;
+    /* hide the excess */
 }
 
 .museum-imgs {
@@ -80,11 +74,10 @@
 }
 
 @media only screen and (max-width: 992px) {
-  .museums-right-text::before,  .museums-left-text::after {
-      display: none;
-  }
+    .museums-right-text::before, .museums-left-text::after {
+        display: none;
+    }
 }
-
 
 .show-more-btn {
     border-radius: 3rem;
@@ -109,8 +102,8 @@
     border-color: #BD2828;
 }
 
-.row > * {
-  transition: all .3s ease-in-out;
+.row>* {
+    transition: all .3s ease-in-out;
 }
 
 .row-left {
@@ -121,11 +114,11 @@
     background-color: #FDE0B4;
 }
 
-.row-right > * ::selection {
+.row-right>* ::selection {
     background-color: #F5EEDB;
 }
 
-.row-left > * ::selection {
+.row-left>* ::selection {
     background-color: #D6CBB0
 }
 
@@ -133,11 +126,10 @@ h4 {
     text-transform: uppercase;
 }
 
-.email-p > a {
+.email-p>a {
     color: #D22C2C;
 }
 
-.email-p > a:hover {
+.email-p>a:hover {
     color: #F07249;
 }
-
