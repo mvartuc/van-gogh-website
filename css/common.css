@@ -2,7 +2,6 @@ html {
   height: 100%;
 }
 
-
 .nav-item {
   text-align: center;
 }
@@ -31,4 +30,9 @@ body {
 .scrolled-up {
   transform: translateY(0);
   transition: all 0.3s ease-in-out;
+}
+
+.quotation-marks {
+  font-family: "roboto";
+  font-weight: 600;
 }

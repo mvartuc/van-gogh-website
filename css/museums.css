@@ -27,19 +27,21 @@
     height: inherit;
 }
 
-.museums-right-img, .museums-left-img {
+.img-wrapper {
     overflow: hidden;
-    /* hide the excess */
+    border: 7px solid #3C0606;
+    border-radius: .3rem;
 }
 
 .museum-imgs {
     max-height: 450px;
+    min-height: 250px;
     transform-origin: 50% 65%;
     transition: transform 1s ease-in-out;
 }
 
 .museum-imgs:hover {
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
 
 .row {
