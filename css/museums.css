@@ -35,7 +35,7 @@
 
 .museum-imgs {
     max-height: 450px;
-    min-height: 250px;
+    min-height: 180px;
     transform-origin: 50% 65%;
     transition: transform 1s ease-in-out;
 }
