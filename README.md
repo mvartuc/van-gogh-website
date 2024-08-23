@@ -185,7 +185,7 @@ mvartuc - [@mvartuc](https://github.com/mvartuc) - contact@mvartuc.dev
 
 Project Link: [vangogh.mvartuc.dev](https://vangogh.mvartuc.dev)
 
-Repo Link: [source code](https://github.com/your_username/repo_name)
+Repo Link: [source code](https://github.com/mvartuc/van-gogh-website)
 
 <p align="right">(<a href="#van-gogh-website">back to top</a>)</p>
 
