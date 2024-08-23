@@ -72,7 +72,7 @@ HP ProDesk G4 400, i5 8500t (6c 6t) 40GB Ram, 2TB nvme + hdd storage.
 - [![Svelte][Svelte.dev]][Svelte-url]
 - [![Laravel][Laravel.com]][Laravel-url] -->
 
-- [![Proxmox][Proxmox-logo]][Bootstrap-url]
+- [![Proxmox][Proxmox-logo]][Proxmox-url]
 
 - [![Coolify][Coolify-logo]][Coolify-url]
 
