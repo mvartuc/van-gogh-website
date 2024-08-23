@@ -43,7 +43,7 @@ This is a website I've independently developed early in my Bachelor's.
 
 It's fully self hosted from my home server with Coolify.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p>
 
 ### Built With
 
@@ -57,7 +57,7 @@ It's fully self hosted from my home server with Coolify.
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 - [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p>
 
 ### Hosted With
 
@@ -78,7 +78,7 @@ HP ProDesk G4 400, i5 8500t (6c 6t) 40GB Ram, 2TB nvme + hdd storage.
 
 - [![Docker][Docker-logo]][Docker-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -118,7 +118,7 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p> -->
 
 <!-- USAGE EXAMPLES -->
 
@@ -128,7 +128,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://vangogh.mvartuc.dev)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p> -->
 
 <!-- ROADMAP -->
 <!--
@@ -144,7 +144,7 @@ _For more examples, please refer to the [Documentation](https://vangogh.mvartuc.
 
 See the [open issues](https://github.com/mvartuc/van-gogh-website/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 <!--
@@ -167,7 +167,7 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=mvartuc/van-gogh-website" alt="contrib.rocks image" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
@@ -175,7 +175,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -187,7 +187,7 @@ Project Link: [vangogh.mvartuc.dev](https://vangogh.mvartuc.dev)
 
 Repo Link: [source code](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 <!--
@@ -204,7 +204,7 @@ Use this space to list resources you find helpful and would like to give credit 
 - [Font Awesome](https://fontawesome.com)
 - [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#van-gogh-website">back to top</a>)</p> -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
